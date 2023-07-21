@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aeee38b-c1a7-4a55-bbc0-bc9b04c0359d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jCIVv537HuntZWbJFKYUwDRN6j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.problem4">
+    <configuration name="problem3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/problem3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/problem4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.problem4" />
+        <item itemvalue="Python.problem3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aeee38b-c1a7-4a55-bbc0-bc9b04c0359d" name="Default Changelist" comment="" />
+      <created>1603301673862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603301673862</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603301722311">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603301722311" />
+    <state x="321" y="311" key="#xdebugger.XInspectDialog" timestamp="1603338981071">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="321" y="311" key="#xdebugger.XInspectDialog/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603338981071" />
+    <state x="1349" y="259" key="#xdebugger.evaluate" timestamp="1603338991703">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1349" y="259" key="#xdebugger.evaluate/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603338991703" />
+    <state width="1899" height="361" key="GridCell.Tab.0.bottom" timestamp="1603339518338">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="361" key="GridCell.Tab.0.bottom/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339518338" />
+    <state width="1899" height="361" key="GridCell.Tab.0.center" timestamp="1603339518337">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="361" key="GridCell.Tab.0.center/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339518337" />
+    <state width="1899" height="361" key="GridCell.Tab.0.left" timestamp="1603339518337">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="361" key="GridCell.Tab.0.left/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339518337" />
+    <state width="1899" height="361" key="GridCell.Tab.0.right" timestamp="1603339518338">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="361" key="GridCell.Tab.0.right/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339518338" />
+    <state width="1899" height="357" key="GridCell.Tab.1.bottom" timestamp="1603339000108">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="357" key="GridCell.Tab.1.bottom/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339000108" />
+    <state width="1899" height="357" key="GridCell.Tab.1.center" timestamp="1603339000107">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="357" key="GridCell.Tab.1.center/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339000107" />
+    <state width="1899" height="357" key="GridCell.Tab.1.left" timestamp="1603339000107">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="357" key="GridCell.Tab.1.left/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339000107" />
+    <state width="1899" height="357" key="GridCell.Tab.1.right" timestamp="1603339000107">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="357" key="GridCell.Tab.1.right/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603339000107" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1603301747757">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/3000.-184.1440.877/1920.-140.1080.1897/0.23.1920.1057@0.23.1920.1057" timestamp="1603301747757" />
+  </component>
+</project>
